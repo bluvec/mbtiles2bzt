@@ -1,0 +1,4 @@
+*.mbtiles
+release.json
+mbtilesConverter_linux
+mbtilesConverter_windows.exe

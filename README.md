@@ -8,7 +8,7 @@ This program converts a mbtiles file to a customized map format
 
 4. add index to map table
 
-5. add task table to be compatible with legacy webui
+5. add task table to be compatible with legacy offline map uploading system
 
 
 how to run it?
